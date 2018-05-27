@@ -65,12 +65,10 @@ a {
 	margin-bottom: 2%;
 	margin-left: 20px;
 	margin-right: 20px;
-	height: 55px;
 	text-align: center;
 	color: #fff;
 	font-size: 45px;
 	font-family: 'Comfortaa';
-	overflow: hidden;
 
 }
 
@@ -78,8 +76,7 @@ a {
 	font-size: 20px;
 	font-family: 'Comfortaa';
 	text-align: center;
-	height: 30px;
-	margin-top: auto;
+	margin-top: 40px;
 	margin-bottom: auto;
 	margin-left: 20px;
 	margin-right: 20px;
