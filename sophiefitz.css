@@ -57,21 +57,21 @@ a {
 	color: #fff;
 }
 
-.name {
-	text-align: left;
-	margin-left: 0px;
-	margin-top: 20px;
-	height: 20px;
-	display: inline-block;
-	float: left;
+header {
+	margin: 1em 0 0 1.25em;
+	background: url('skull.png') left top no-repeat;
+	background-size: auto 90%;
 }
 
-#skull {
-	height: 40px;
-	text-align: left;
-	display: inline-block;
-	float: left;
-	margin-right: 0px;
+header a {
+	display: block;
+	padding-left: 3.50em;
+	text-decoration: none;
+}
+
+header h1,
+header h3 {
+	font-size: 1em;
 }
 
 .me {
