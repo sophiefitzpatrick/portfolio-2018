@@ -20,6 +20,7 @@ html {
 body {
 	font-family: 'Comfortaa', sans-serif;
 	font-size: 20px;
+	line-height: 1.5;
 }
 
 h1, h2, h3 {
@@ -61,6 +62,7 @@ header {
 	margin: 1em 0 0 1.25em;
 	background: url('skull.png') left top no-repeat;
 	background-size: auto 90%;
+	line-height: 1;
 }
 
 header a {
@@ -74,31 +76,22 @@ header h3 {
 	font-size: 1em;
 }
 
-.me {
-	word-wrap: break-word;
+section {
+	margin-top: 12.5vh;
+	text-align: center;
+	white-space: break-word;
+	padding: 1em;
 }
 
-.hello {
-	margin-bottom: 2%;
-	margin-top: 20%;
-	margin-left: 20px;
-	margin-right: 20px;
-	text-align: center;
-	font-size: 2.1em;
-}
-
-.introduction {
-	text-align: center;
-	margin-top: 40px;
-	margin-bottom: auto;
-	margin-left: 20px;
-	margin-right: 20px;
-	overflow: visible;
+section h2 {
+	font-size: 2.25em;
+	font-weight: normal;
+	margin-bottom: 0.7em;
 }
 
 .icons {
 	text-align: center;
-	height:40px;
+	height: 40px;
 	margin: 2%;
 	bottom: 0;
 	position: absolute;
