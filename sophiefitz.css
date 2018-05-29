@@ -12,6 +12,8 @@ body {
 	height: 100vh;
 	width: 100vw;
 	min-width:400px; 
+	display: flex;
+	direction: column;
 }
 
 h2 {
@@ -24,6 +26,7 @@ a {
 }
 
 .title-page {
+	width: 100%;
 	background-color: #c5c4c3;
 }
 
@@ -49,11 +52,7 @@ a {
 }
 
 .me {
-	height: 100%;
-	width: 100%;
-	position: fixed;
 	word-wrap: break-word;
-	padding-bottom: 100%;
 }
 
 .hello {
