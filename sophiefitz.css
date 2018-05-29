@@ -29,6 +29,9 @@ h2 {
 	font-size: 20px;
 }
 
+.strike {
+	text-decoration: line-through;
+}
 /*
  * Layout base */
 body {
