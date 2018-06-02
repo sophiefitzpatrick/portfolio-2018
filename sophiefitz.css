@@ -26,11 +26,11 @@ a {
 }
 
 .title-page {
-	background-color: #b4b2b1;
+	background-color: #000000;
 }
 
 .name {
-	background-color: #b4b2b1;
+	background-color: #000000;
 	text-align: left;
 	margin-left: 0px;
 	margin-top: 20px;
@@ -59,7 +59,7 @@ a {
 }
 
 .hello {
-	background-color: #b4b2b1;
+	background-color: #000000;
 	margin-bottom: 2%;
 	margin-top: 20%;
 	margin-left: 20px;
@@ -84,7 +84,7 @@ a {
 }
 
 .icons {
-	background-color: #b4b2b1;
+	background-color: #000000;
 	text-align: center;
 	height:40px;
 	margin: 2%;
