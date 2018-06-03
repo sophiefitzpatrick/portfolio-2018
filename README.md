@@ -1,4 +1,4 @@
-# sophiefitzpatrick.github.io
+# https://sophiefitzpatrick.co.uk
 First software project: a personal portfolio (HTML,CSS)
 
 
