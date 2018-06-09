@@ -1,5 +1,5 @@
 # https://sophiefitzpatrick.co.uk
-First software project: a personal portfolio (HTML,CSS)
+First software project: a personal portfolio (HTML,CSS, JS)
 
 
 You can read more about my journey here:
